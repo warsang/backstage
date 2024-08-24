@@ -32977,6 +32977,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"lodash@npm:4.17.12":
+  version: 4.17.12
+  resolution: "lodash@npm:4.17.12"
+  checksum: 7bc86ea087f21e361a4bd48fc5da3861b8c2c4c7051bf4b98b7ae93d9987a70b76cb897a7c988a6a87bb7223ba43012a40f9a9faf79aa78be8ad295f507ce7d5
+  languageName: node
+  linkType: hard
+
 "lodash@npm:4.17.21, lodash@npm:^4.15.0, lodash@npm:^4.16.4, lodash@npm:^4.17.10, lodash@npm:^4.17.11, lodash@npm:^4.17.14, lodash@npm:^4.17.15, lodash@npm:^4.17.20, lodash@npm:^4.17.21, lodash@npm:^4.17.4, lodash@npm:^4.7.0, lodash@npm:~4.17.15, lodash@npm:~4.17.21":
   version: 4.17.21
   resolution: "lodash@npm:4.17.21"
@@ -40100,6 +40107,7 @@ __metadata:
     husky: ^9.0.0
     knip: ^5.0.0
     lint-staged: ^15.0.0
+    lodash: 4.17.12
     minimist: ^1.2.5
     node-gyp: ^10.0.0
     prettier: ^2.2.1
